@@ -35,7 +35,9 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112015326-1a28a980-8b02-11eb-9ac1-53ee7ba8fb10.png)
 
 
-#### Import the data into snowflake
+#### Import the data into snowflake  
+![image](https://user-images.githubusercontent.com/12059492/112023547-be621e80-8b09-11eb-87d0-2b033ab4bab0.png)
+
 
 #### Exploratory
 
