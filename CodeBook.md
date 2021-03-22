@@ -16,7 +16,9 @@ https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
 
 These are very small data sets without any column descriptions. Initial analyis will occur in Excel. Some data cleansing will also be done manually. 
 
-countrycodes  
+countrycodes 
+![image](https://user-images.githubusercontent.com/12059492/112009929-36761780-8afd-11eb-92e4-c88e540a8c0d.png)
+
 countryfreedom  
 ESGCountry  
 giniindex  
