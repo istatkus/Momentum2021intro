@@ -78,6 +78,8 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 
 ![image](https://user-images.githubusercontent.com/12059492/112069753-c25e6280-8b42-11eb-93ce-5832a292af34.png)
 
+![image](https://user-images.githubusercontent.com/12059492/112071112-942e5200-8b45-11eb-83c1-b3b2270b7517.png)
+
 
 #### Descriptive
 ![image](https://user-images.githubusercontent.com/12059492/112069500-524fdc80-8b42-11eb-980f-1ec80688feec.png)  
