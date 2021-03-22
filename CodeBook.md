@@ -14,7 +14,7 @@ https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
 
 #### The First Step is to analyze and understand the data.
 
-These are very small data sets without any column descriptions. Initial analyis will occur in Excel. Some data cleansing will also be done manually. 
+These are very small data sets without any column descriptions. Initial analyis will occur in Excel. Some data cleansing will also be done manually. The data will be loaded to Snowflake IRENE_DB. 
 
 countrycodes 
 ![image](https://user-images.githubusercontent.com/12059492/112009929-36761780-8afd-11eb-92e4-c88e540a8c0d.png)
@@ -22,12 +22,12 @@ countrycodes
 countryfreedom  
 ![image](https://user-images.githubusercontent.com/12059492/112015270-0bda8d80-8b02-11eb-9cdb-1d6421fd6595.png)
 
-ESGCountry  
+ESGCountry  This data set is from a different source and has many challenges. 
 giniindex  
 ![image](https://user-images.githubusercontent.com/12059492/112011594-c799be00-8afe-11eb-82ff-1b4297d74f46.png)
 
 popbycountry  
-countrytax  
+countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and stripped notes away form percent, percents were not in consistent decimal and were converted to decimal.
 ![image](https://user-images.githubusercontent.com/12059492/112015326-1a28a980-8b02-11eb-9ac1-53ee7ba8fb10.png)
 
 
