@@ -64,6 +64,11 @@ Personal Freedom Index
 Median Gini by Income Group 
 ![image](https://user-images.githubusercontent.com/12059492/112054987-a9e34d80-8b2c-11eb-8264-f5bf7b4a6f53.png)
 
+Average by Income Group
+![image](https://user-images.githubusercontent.com/12059492/112055129-d8612880-8b2c-11eb-94cf-afa3162442f9.png)
+
+Economic Freedom and Income Group
+![image](https://user-images.githubusercontent.com/12059492/112055327-14948900-8b2d-11eb-8f64-10a5304bc1a1.png)
 
 #### Descriptive
 
