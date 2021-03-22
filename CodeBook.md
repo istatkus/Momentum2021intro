@@ -5,6 +5,24 @@ Clean and prepare a data set to learn Snowflake with Data Robot
 Downloaded data sets from 
 
 https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country
-datacatalog.worldbank.org
 
-####The First Step is to analyze and understand the data.
+https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
+
+#### The First Step is to analyze and understand the data.
+
+countrycodes
+countryfreedom
+ESGCountry
+giniindex
+popbycountry
+countrytax
+
+#### Exploratory
+
+#### Descriptive
+
+#### Inferential / Predictive
+
+#### Prescriptive
+
+
