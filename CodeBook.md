@@ -75,10 +75,16 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 
 #### Exploratory with SAS
 ![image](https://user-images.githubusercontent.com/12059492/112068712-e1f48b80-8b40-11eb-831b-dbfa199b0f6a.png)  
-![image](https://user-images.githubusercontent.com/12059492/112069500-524fdc80-8b42-11eb-980f-1ec80688feec.png)
+
+![image](https://user-images.githubusercontent.com/12059492/112069753-c25e6280-8b42-11eb-93ce-5832a292af34.png)
 
 
 #### Descriptive
+![image](https://user-images.githubusercontent.com/12059492/112069500-524fdc80-8b42-11eb-980f-1ec80688feec.png)  
+![image](https://user-images.githubusercontent.com/12059492/112070020-47e21280-8b43-11eb-8ebd-3344813c4f24.png)  
+##### Removed 0 Gini countries
+![image](https://user-images.githubusercontent.com/12059492/112070134-7cee6500-8b43-11eb-9b83-be5a49848e09.png)
+
 
 #### Inferential / Predictive
 
