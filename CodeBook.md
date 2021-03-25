@@ -5,6 +5,7 @@ Clean and prepare a data set to learn Snowflake with Data Robot
 
 ##### Subject area and questions
 Select a simple subject area: country Gini Index and country characteristics. The Gini Index is a measure of wealth inequality. The Gini Index and Gini Gain are also formulas used in decision trees and chosen to build greater understanding of the algorithm.
+Gini is 0 to 1, the CIA gini is 0 to 100 where 0 is perfect equality and 1 or 100 is perfect inequality. 
   
 Downloaded data sets from: 
 
