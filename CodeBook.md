@@ -88,7 +88,11 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112070134-7cee6500-8b43-11eb-9b83-be5a49848e09.png)
 
 
-#### Inferential / Predictive
+### Data Robot
+![image](https://user-images.githubusercontent.com/12059492/112495751-8e5d8a00-8d5a-11eb-91a4-e6fafd8f9685.png)  
+![image](https://user-images.githubusercontent.com/12059492/112496165-e4cac880-8d5a-11eb-8e39-4c2267f3b12e.png)  
+![image](https://user-images.githubusercontent.com/12059492/112498041-8acb0280-8d5c-11eb-885a-f04df88dd056.png)
+
 
 #### Prescriptive
 
