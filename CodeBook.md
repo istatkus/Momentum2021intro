@@ -114,9 +114,24 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112500948-370de880-8d5f-11eb-9156-45d231d6db78.png)
 
 ![image](https://user-images.githubusercontent.com/12059492/112500884-26f60900-8d5f-11eb-841b-929682f50424.png)
+Hotspots  
+![image](https://user-images.githubusercontent.com/12059492/112514182-6e829200-8d6b-11eb-81a9-934e11041d58.png)
+![image](https://user-images.githubusercontent.com/12059492/112514940-329bfc80-8d6c-11eb-9b99-7771983a2396.png)
+Model comparison  In this case, we want a Gini closer to 1, perfect model as opposed to a Gini of 0 - random model  
+![image](https://user-images.githubusercontent.com/12059492/112515242-7bec4c00-8d6c-11eb-9b55-069adbbf321a.png)
+LIFT - In general a good model has a steeper slope and wider vertical range DUAL LIFT (Data Robot definition)  - Sometimes, instead of comparing the overall 
+accuracy of two models across all of the data, we want to understand how the predictions are different, and when the models have 
+different predictions, which model is more accurate. Dual lift charts communicate accuracy by showing us how different the model 
+predictions are, and which model is more correct when the predictions diverge. This can be important for certain types of 
+modeling use cases where I want to know how much different models can diverge, in order to assess the risk of winner’s curse.
+
+Once again the blue line represents one model, and the yellow line represents a different model, both selected by the user. 
+This time there is an extra line, an orange line that represents the actual values for the target variable.  
+![image](https://user-images.githubusercontent.com/12059492/112517095-4f393400-8d6e-11eb-9e85-0afe13213bb4.png)  
+![image](https://user-images.githubusercontent.com/12059492/112516879-1c8f3b80-8d6e-11eb-91fb-df47bca6e8a3.png)  
 
 
 
-#### Prescriptive
+
 
 
