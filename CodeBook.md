@@ -3,7 +3,7 @@
 ### Project Description
 Clean and prepare a data set to learn Snowflake with Data Robot
 
-##### Subject area and questions
+### Subject area 
 Select a simple subject area: country Gini Index and country characteristics. The Gini Index is a measure of wealth inequality. The Gini Index and Gini Gain are also formulas used in decision trees and chosen to build greater understanding of the algorithm.
 Gini is 0 to 1, the CIA gini is 0 to 100 where 0 is perfect equality and 1 or 100 is perfect inequality. This index is also used in data modeling evaluating variables.
 The Gini Coefficient or Gini Index measures the inequality among the values of a variable. Higher the value of an index, more dispersed is the data. 
@@ -16,8 +16,9 @@ Downloaded data sets from:
 
 https://worldpopulationreview.com/country-rankings/gini-coefficient-by-country
 
-https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data
-
+https://datacatalog.worldbank.org/dataset/environment-social-and-governance-data  
+### Questions  
+Which indexes, potentially representing policies contribute to a lower versus a higher income inequality. The hypothesis is that higher income tax and sales taxes would contribute to equality (lower Gini), more government spending on education would improve inequality (lower gini) , greater participation in labor force would improve equality (lower gini).   
 #### The First Step is to analyze and understand the data.
 
 These are very small data sets without any column descriptions. Initial analyis will occur in Excel. Some data cleansing will also be done manually. The data will be loaded to Snowflake IRENE_DB. 
