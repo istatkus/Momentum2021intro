@@ -98,6 +98,16 @@ countrytax  The tax data is incomplete. Removed all occurances of -1, -, N/A and
 ![image](https://user-images.githubusercontent.com/12059492/112499231-a71b6f00-8d5d-11eb-9105-dc847f75c400.png)
 ![image](https://user-images.githubusercontent.com/12059492/112499455-dcc05800-8d5d-11eb-9037-d84e51b33eaf.png)
 ![image](https://user-images.githubusercontent.com/12059492/112499512-ecd83780-8d5d-11eb-8e80-f2721cbb3b28.png)
+![image](https://user-images.githubusercontent.com/12059492/112500391-b5b65600-8d5e-11eb-94c4-19e3d09d0ea6.png)
+![image](https://user-images.githubusercontent.com/12059492/112500458-c961bc80-8d5e-11eb-8ca5-eb487726f0ae.png)
+![image](https://user-images.githubusercontent.com/12059492/112500565-e0081380-8d5e-11eb-8a5d-0827ea4cde5c.png)
+![image](https://user-images.githubusercontent.com/12059492/112500625-eeeec600-8d5e-11eb-921d-0ebb7968c3af.png)
+![image](https://user-images.githubusercontent.com/12059492/112500722-0168ff80-8d5f-11eb-9139-bbcb7a1b4c5f.png)
+![image](https://user-images.githubusercontent.com/12059492/112500786-0f1e8500-8d5f-11eb-8482-6a5c252c1368.png)
+![image](https://user-images.githubusercontent.com/12059492/112500948-370de880-8d5f-11eb-9156-45d231d6db78.png)
+
+![image](https://user-images.githubusercontent.com/12059492/112500884-26f60900-8d5f-11eb-841b-929682f50424.png)
+
 
 
 #### Prescriptive
